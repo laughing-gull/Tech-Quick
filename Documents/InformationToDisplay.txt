@@ -1,0 +1,54 @@
+﻿
+Two types of information should be gathered. The two types of infomation will be described as primary and secondary. Primary infomartion is short bits of important information intened to give quick insight into a part of the computer. Secondary infomation is everything else gathered about that part of the computer listed out. Primary information will be listed on the main screen. Secondary infomation is displayed by clicking on the icon for that part of the computer. Parts will be grouped together into categories.
+
+Style guide for documenting what information needs to found and displayed.
+
+Category Name
+	Part Name
+		Primary Information
+			Secondary Infomation
+	Part Name
+		Primary Information
+			Secondary Infomation
+
+Hardware
+	CPU
+		Name
+		Frequency
+		Cores
+		Threads
+			Nanometer
+			TDP
+			L1 Cache
+			L2 Cache
+			L3 Cache
+	RAM
+		Type
+		Size
+		Frequency
+			Total Slots
+			Used Slots
+			Empty Slots
+			Manufacturer in slot # - Repeaded for each slot used
+	Motherboard
+		Model
+		Manufacturer
+			Chipset Vendor
+			Chipset Model
+			Southbridge Model
+			Motherboard Slots - Repeated for each slot
+			PCI Express Version Supported
+			USB Version Supported
+	Grapics
+		Model
+		Manufacturer
+		VRAM
+			Graphics Processor Clock
+			Video Unit Clock
+			Graphics Memory Clock
+			Graphics Memory Bus Width
+			Driver Version
+			Driver Date
+
+
+
